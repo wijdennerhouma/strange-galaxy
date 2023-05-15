@@ -1,0 +1,2 @@
+C:\Users\DELL\OneDrive\Bureau\c++ tp\Pex\x64\Debug\Pex.exe
+C:\Users\DELL\OneDrive\Bureau\c++ tp\mini-projet\x64\Debug\Pex.exe
